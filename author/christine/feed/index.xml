@@ -8,21 +8,51 @@
 	>
 
 <channel>
-	<title>christine &#8211; Martigny-Escrime</title>
+	<title>webmaster &#8211; Martigny-Escrime</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Club d&#039;escrime à Martigny</description>
-	<lastBuildDate>Wed, 18 Jul 2018 14:10:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Aug 2018 07:33:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>Portes ouvertes le 6 septembre avec la venue du nouveau champion du monde Lucas Malcotti</title>
+		<link>./../../../portes-ouvertes-le-6-septembre-avec-la-venue-du-nouveau-champion-du-monde-lucas-malcotti/index.html</link>
+		<comments>./../../../portes-ouvertes-le-6-septembre-avec-la-venue-du-nouveau-champion-du-monde-lucas-malcotti/index.html#respond</comments>
+		<pubDate>Fri, 31 Aug 2018 07:19:04 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Infos]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=204</guid>
+		<description><![CDATA[Envie de découvrir l&#8217;escrime? Rendez-vous le 6 septembre 2018 à la salle Versilia entre 16h30 et 19h30.]]></description>
+				<content:encoded><![CDATA[<p>Envie de découvrir l&rsquo;escrime? Rendez-vous le 6 septembre 2018 à la salle Versilia entre 16h30 et 19h30.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../portes-ouvertes-le-6-septembre-avec-la-venue-du-nouveau-champion-du-monde-lucas-malcotti/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reprise des entraînements d&#8217;escrime le 27 août 2018</title>
+		<link>./../../../reprise-de-lescrime-le-27-aout-2018/index.html</link>
+		<comments>./../../../reprise-de-lescrime-le-27-aout-2018/index.html#respond</comments>
+		<pubDate>Fri, 17 Aug 2018 15:18:25 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Infos]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=192</guid>
+		<description><![CDATA[Rendez-vous dans notre nouvelle salle: Versilia, rue de bévignoux 10 à Martigny!]]></description>
+				<content:encoded><![CDATA[<p>Rendez-vous dans notre nouvelle salle: Versilia, rue de bévignoux 10 à Martigny!</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../reprise-de-lescrime-le-27-aout-2018/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Fin des cours Jeudi 21 juin 2018</title>
 		<link>./../../../fin-des-cours-jeudi-21-juin-2018/index.html</link>
 		<comments>./../../../fin-des-cours-jeudi-21-juin-2018/index.html#respond</comments>
 		<pubDate>Wed, 20 Jun 2018 15:45:15 +0000</pubDate>
-		<dc:creator><![CDATA[christine]]></dc:creator>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
 				<category><![CDATA[Infos]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?p=145</guid>
@@ -32,21 +62,6 @@
 ]]></content:encoded>
 			<wfw:commentRss>./../../../fin-des-cours-jeudi-21-juin-2018/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hello world!</title>
-		<link>./../../../hello-world/index.html</link>
-		<comments>./../../../hello-world/index.html#comments</comments>
-		<pubDate>Sun, 17 Jun 2018 15:58:12 +0000</pubDate>
-		<dc:creator><![CDATA[christine]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-			<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
-		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
 </rss>
