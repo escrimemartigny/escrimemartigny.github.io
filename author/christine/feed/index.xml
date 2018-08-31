@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>webmaster &#8211; Martigny-Escrime</title>
+	<title>martigny-escrime &#8211; Martigny-Escrime</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Club d&#039;escrime à Martigny</description>
@@ -22,7 +22,7 @@
 		<link>./../../../portes-ouvertes-le-6-septembre-avec-la-venue-du-nouveau-champion-du-monde-lucas-malcotti/index.html</link>
 		<comments>./../../../portes-ouvertes-le-6-septembre-avec-la-venue-du-nouveau-champion-du-monde-lucas-malcotti/index.html#respond</comments>
 		<pubDate>Fri, 31 Aug 2018 07:19:04 +0000</pubDate>
-		<dc:creator><![CDATA[webmaster]]></dc:creator>
+		<dc:creator><![CDATA[martigny-escrime]]></dc:creator>
 				<category><![CDATA[Infos]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?p=204</guid>
@@ -37,7 +37,7 @@
 		<link>./../../../reprise-de-lescrime-le-27-aout-2018/index.html</link>
 		<comments>./../../../reprise-de-lescrime-le-27-aout-2018/index.html#respond</comments>
 		<pubDate>Fri, 17 Aug 2018 15:18:25 +0000</pubDate>
-		<dc:creator><![CDATA[webmaster]]></dc:creator>
+		<dc:creator><![CDATA[martigny-escrime]]></dc:creator>
 				<category><![CDATA[Infos]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?p=192</guid>
@@ -52,7 +52,7 @@
 		<link>./../../../fin-des-cours-jeudi-21-juin-2018/index.html</link>
 		<comments>./../../../fin-des-cours-jeudi-21-juin-2018/index.html#respond</comments>
 		<pubDate>Wed, 20 Jun 2018 15:45:15 +0000</pubDate>
-		<dc:creator><![CDATA[webmaster]]></dc:creator>
+		<dc:creator><![CDATA[martigny-escrime]]></dc:creator>
 				<category><![CDATA[Infos]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?p=145</guid>
