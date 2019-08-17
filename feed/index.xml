@@ -12,12 +12,26 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Club d&#039;escrime à Martigny</description>
-	<lastBuildDate>Wed, 05 Jun 2019 13:24:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Aug 2019 06:36:38 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
+		<title>Reprise des cours le jeudi 22 Août 2019</title>
+		<link>./../reprise-des-cours-le-jeudi-22-aout-2019/index.html</link>
+		<comments>./../reprise-des-cours-le-jeudi-22-aout-2019/index.html#respond</comments>
+		<pubDate>Fri, 16 Aug 2019 14:05:50 +0000</pubDate>
+		<dc:creator><![CDATA[martigny-escrime]]></dc:creator>
+				<category><![CDATA[Infos]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=240</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>./../reprise-des-cours-le-jeudi-22-aout-2019/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Fin des cours lundi 17 juin 2019</title>
 		<link>./../fin-des-cours-lundi-17-juin-2019/index.html</link>
 		<comments>./../fin-des-cours-lundi-17-juin-2019/index.html#respond</comments>
