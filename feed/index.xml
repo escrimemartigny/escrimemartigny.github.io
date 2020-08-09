@@ -12,12 +12,26 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Club d&#039;escrime à Martigny</description>
-	<lastBuildDate>Fri, 06 Sep 2019 12:02:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Aug 2020 09:42:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.11</generator>
+	<generator>https://wordpress.org/?v=4.9.15</generator>
 	<item>
+		<title>Reprise des cours le jeudi 20 Août 2020</title>
+		<link>./../reprise-des-cours-le-jeudi-20-aout-2020/index.html</link>
+		<comments>./../reprise-des-cours-le-jeudi-20-aout-2020/index.html#respond</comments>
+		<pubDate>Sun, 09 Aug 2020 09:42:11 +0000</pubDate>
+		<dc:creator><![CDATA[martigny-escrime]]></dc:creator>
+				<category><![CDATA[Infos]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=267</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>./../reprise-des-cours-le-jeudi-20-aout-2020/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Reprise des cours le jeudi 22 Août 2019</title>
 		<link>./../reprise-des-cours-le-jeudi-22-aout-2019/index.html</link>
 		<comments>./../reprise-des-cours-le-jeudi-22-aout-2019/index.html#respond</comments>
