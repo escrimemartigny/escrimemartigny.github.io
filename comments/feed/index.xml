@@ -10,9 +10,9 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Club d&#039;escrime à Martigny</description>
-	<lastBuildDate>Tue, 22 Sep 2020 15:39:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Jan 2021 12:43:37 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.15</generator>
+	<generator>https://wordpress.org/?v=4.9.16</generator>
 </channel>
 </rss>
